@@ -1,6 +1,7 @@
 # Project_Scrapy
-Rodar o web scraping
+Projeto feito em uma aula do Jornada de dados
 
+Rodar o web scraping
 ```bash
 scrapy crawl mercadolivre -o ../../data/data.jsonl
 ```
